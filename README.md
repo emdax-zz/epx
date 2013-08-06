@@ -3,4 +3,4 @@ epx
 
 Electronic Program Guide Interface
 
-![alt tag](http://m3lab.appdax.com/dn/ae/current3.jpg) 
+![alt tag](http://appdax.com/dn/ae/tsxschematic.png) 
